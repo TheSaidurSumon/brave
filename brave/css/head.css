@@ -1,0 +1,10 @@
+*{margin:0px auto; padding:0px;}
+.fullhead{width:960px;margin-top:3px;margin-bottom:10px;}
+.header{background-color:#34495E;overflow:hidden;box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);}
+.logo{float:left;width:200px}
+.logo img{width:180px; height:80px;padding:10px;margin-left:20px;}
+.web_title{float:left;width:400px}
+.web_title h1{color:#fff;text-align:center;font-size:40px;text-shadow: 2px 2px 4px #000000;margin-top:25px;}
+.info{float:right;width:300px;}
+address{color:#fff;text-shadow:2px 2px 4px #000000;margin-top:25px;}
+.slider{}

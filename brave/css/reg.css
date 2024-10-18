@@ -1,0 +1,24 @@
+*{margin:0px auto;padding:0px;}
+body{background-color:#34495E;color:#fff}
+.reg{width:960px;background-color:#34495E;margin-top:5px;box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);overflow:hidden;}
+
+form{text-shadow: 2px 2px 4px #000000;margin-top:10px;margin-bottom:20px;}
+table{box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);margin-bottom:20px;padding:30px;}
+label{font-size:20px;}
+tr{}
+.ctr{border-radius:5px;padding:10px;}
+.agr{font-size:20px;}
+td{padding:10px;}
+
+fieldset{box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);width:900px;margin-top:20px;}
+input{padding:10px;border-radius:5px;}
+textarea{border-radius:5px;}
+select{padding:10px;}
+.reg_btn{color:#fff;text-shadow: 2px 2px 4px #000000;background-color:#D2322D;cursor:pointer;width:140px;height:50px;border-radius:8px;padding:5px;font-size:25px;}
+.reg_btn:hover{color:#f3f;background-color:#34495E;}
+
+.reg_title{color:#fff;text-shadow: 2px 2px 4px #000000;background-color:#34495E;cursor:pointer;mwidth:390px;height:30px;padding:15px;font-size:25px;text-align:center;margin-bottom:20px;box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);border:1px solid #6C6C6C;    width: 494px;
+  
+    margin-bottom: 0px;
+    margin-top: 10px;
+    border-radius: 0px 0px 39px 39px;}

@@ -1,0 +1,4 @@
+*{margin:0px ;padding:0px;}
+body{}
+.links{width:30px;height:100px;position:fixed;margin-top:180px;margin-left:10px;}
+.links img{height:30px;width:30px;border-radius:100%;padding:5px;float:right}
